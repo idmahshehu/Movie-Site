@@ -229,7 +229,6 @@ include 'movies.php';
           />
           <span class="title-desc"
             ><h3>The Woman King</h3>
-            <br />
             The story of the Agojie, the all-female unit of warriors who
             protected the African Kingdom of Dahomey in the 1800s with skills
             and a fierceness unlike ...</span

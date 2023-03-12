@@ -362,11 +362,11 @@ header {
 .container-cs {
   display: grid;
   align-items: center;
-  justify-content: left;
   align-content: center;
   height: 80vh;
   row-gap: 10px;
   padding-top: 30px;
   padding-left: 150px;
+  padding-right: 150px;
   width: 100%;
 }
