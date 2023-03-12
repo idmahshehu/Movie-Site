@@ -7,7 +7,7 @@ include 'db.php';
     <div class="head" style="text-align: center; padding: 10px 0px 10px 0px;">
         <h1>Categories of Night Owl</h1>
     </div>
-    <a href="addcategory.php" class="btn btn-info text-dark" >Add a Category</a>
+    <a href="addcategory.php" class="btn btn-info text-dark " >Add a Category</a>
     <hr>
     <table class="table table-striped table-dark">
         <thead>
